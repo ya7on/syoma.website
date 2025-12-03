@@ -15,6 +15,8 @@ socials = [
     { name = "github", icon = "github", url = "https://github.com/ya7on" },
     { name = "linkedin", icon = "linkedin", url = "https://linkedin.com/in/ya7on" },
     { name = "telegram", icon = "telegram", url = "https://t.me/pytho_rust" },
+    { name = "discord", icon = "discord", url = "https://discord.com/users/598221380777148427" },
+    { name = "email", icon = "email", url = "mailto:hello@syoma.website" },
 ]
 menu = [
     { name = "Home", url = "/" },
