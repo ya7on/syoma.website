@@ -1,0 +1,23 @@
+base_url = "https://syoma.website"
+
+compile_sass = true
+build_search_index = true
+
+theme = "apollo"
+taxonomies = [{ name = "tags" }]
+
+[markdown]
+highlight_code = true
+
+[extra]
+theme = "auto"
+socials = [
+    { name = "github", icon = "github", url = "https://github.com/ya7on" },
+    { name = "linkedin", icon = "linkedin", url = "https://linkedin.com/in/ya7on" },
+    { name = "telegram", icon = "telegram", url = "https://t.me/pytho_rust" },
+]
+menu = [
+    { name = "Home", url = "/" },
+    { name = "Blog", url = "/blog/" },
+    { name = "RSS", url = "/blog/atom.xml" },
+]
