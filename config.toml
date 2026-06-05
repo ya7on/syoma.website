@@ -6,9 +6,6 @@ build_search_index = true
 theme = "apollo"
 taxonomies = [{ name = "tags" }]
 
-[markdown]
-highlight_code = true
-
 [extra]
 theme = "auto"
 socials = [
